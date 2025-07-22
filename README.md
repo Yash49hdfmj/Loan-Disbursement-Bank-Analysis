@@ -3,8 +3,6 @@ Here is the cleaned-up and professional version of the **GitHub README** without
 
 ---
 
-# Loan Analytics Power BI Dashboard
-
 This repository contains a Power BI dashboard for analyzing loan data across disbursements, portfolio risk, and data quality. It is designed for financial institutions to track performance and take action based on insights.
 
 ---
