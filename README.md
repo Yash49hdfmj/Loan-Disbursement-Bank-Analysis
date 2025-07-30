@@ -1,5 +1,4 @@
-# Loan-Disbursement-Bank-Analysis
-Here is the cleaned-up and professional version of the **GitHub README** without emojis or stylistic extras:
+# Loan-Disbursement-Bank-Analysis-Dashboard
 
 ---
 
@@ -149,4 +148,3 @@ LoanDashboard/
 
 ---
 
-Let me know if you'd like this saved as a downloadable `README.md` file or tailored for a specific GitHub repository name or organization.
